@@ -13,8 +13,8 @@ app.use(express.json());
 const transporter = nodemailer.createTransport({
     service: 'gmail', // Change if using another email provider
     auth: {
-        user: 'your-email@gmail.com', // Replace with your email
-        pass: 'your-email-password' // Replace with your email password or app password
+        user: 'mkwakbeera12@hotmail.com', // Replace with your email
+        pass: 'alifouad321' // Replace with your email password or app password
     }
 });
 
